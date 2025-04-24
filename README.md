@@ -63,13 +63,13 @@
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42" /></a>
   <a target="_blank" href="https://posit.co/download/rstudio-desktop/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="42" height="42" /></a>
+      <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a target="_blank" href="https://www.wireshark.org/">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="Wireshark" width="42" height="42" /></a>
   <a target="_blank" href="https://www.netacad.com/courses/packet-tracer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco Packet Tracer" width="42" height="42" /></a>
      <a target="_blank" href="https://www.zaproxy.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OWASP_ZAP_logo.svg" alt="OWASP ZAP" width="42" height="42" /></a>
-    <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a target="_blank" href="https://www.virtualbox.org/">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="42" height="42" /></a>
     <a target="_blank" href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
