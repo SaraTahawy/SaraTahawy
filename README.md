@@ -1,32 +1,28 @@
-<h1 style="text-align: center;">Hi 👋, I'm Sara</h1>
-<p style="text-align: center;">Cyber Security Student | Learning & Growing | Looking for Opportunities</p>
+<h1 align="center">Hi 👋, I'm Sara</h1>
+<p align="center">Cyber Security Student | Learning & Growing | Looking for Opportunities</p>
 
 <h2>💻 About Me</h2>
-<p>🎓 I'm a Cyber Security student with a strong passion for ethical hacking and protecting digital systems.</p>
-<p>🔐 I’ve explored penetration testing, network security, and secure coding — and I really enjoy finding and fixing security issues.</p>
-<p>🛠️ I work on projects that combine my knowledge of vulnerabilities with programming to build more secure systems.</p>
-<p>🌐 Besides cybersecurity, I also have experience in fields like AI, Machine Learning ,Cloud Computing Security, Data Structure, Blockchain, Data Integrity, Cryptography and more...</p>
-<p>📚 Motto: <em>"Code securely, think critically, and never stop learning."</em></p>
+<ul>
+  <li>🎓 Cyber Security student passionate about ethical hacking and digital protection.</li>
+  <li>🔐 Experienced in penetration testing, network security, and secure coding.</li>
+  <li>🛠️ I build secure systems using my knowledge of vulnerabilities and programming.</li>
+  <li>🌐 Knowledge in AI, ML, Cloud Security, Data Structures, Blockchain, Data Integrity, Cryptography, and more.</li>
+  <li>📚 Motto: <em>"Code securely, think critically, and never stop learning."</em></li>
+</ul>
 
-<h2>⚡️ Where to find me</h2>
-<p style="display: inline-block; margin-right: 10px;">
-    <a target="_blank" href="https://www.linkedin.com/in/saranabil/">
-      <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-    </a>
-  </p>
-  
-  <p style="display: inline-block; margin-left: 10px;">
-    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=sara.nabil77777@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23d14836" alt="gmail" />
-    </a>
-  </p>
-  
-  
-  
-
+<h2>⚡ Where to find me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saranabil/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sara.nabil77777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<p align="center">
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -53,28 +49,26 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+</p>
 
-
-<p style="text-align: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraTahawy&" alt="SaraTahawy" style="display: block; margin-left: auto; margin-right: auto;" />
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraTahawy" alt="GitHub Streak" />
 </p>
 
 
-<div style="text-align: center;">
-    <span style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="SaraTahawy" />
-    </span>
-    <span style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="SaraTahawy" />
-    </span>
-  </div>
-  
-
-<p style="text-align: center;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SaraTahawy" alt="SaraTahawy" />
-    </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaraTahawy" alt="Trophies" />
+  </a>
+</p>
+
+     
 
 
