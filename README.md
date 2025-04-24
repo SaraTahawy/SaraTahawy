@@ -37,13 +37,13 @@
   <a target="_blank" href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
   <a target="_blank" href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
   <a target="_blank" href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-  <a target="_blank" href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+  <a target="_blank" href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="42" height="42" /></a>
   <a target="_blank" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
   <a target="_blank" href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
   <a target="_blank" href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
   <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-  <a target="_blank" href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+  <a target="_blank" href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="42" height="42" /></a>
   <a target="_blank" href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
   <a target="_blank" href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
@@ -51,20 +51,29 @@
   <a target="_blank" href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
   <a target="_blank" href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
   <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.r-project.org/">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42" /></a>
+  <a target="_blank" href="https://posit.co/download/rstudio-desktop/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.wireshark.org/">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="Wireshark" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.netacad.com/courses/packet-tracer">
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco Packet Tracer" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.zaproxy.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OWASP_ZAP_logo.svg" alt="OWASP ZAP" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.virtualbox.org/">
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="42" height="42" /></a>
+  <a target="_blank" href="https://ubuntu.com/">
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="42" height="42" /></a>
 </p>
-
-
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraTahawy" alt="GitHub Streak" />
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=SaraTahawy" alt="Trophies" />
