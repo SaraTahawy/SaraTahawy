@@ -7,7 +7,7 @@
   <li>🔐 Experienced in penetration testing, network security, and secure coding.</li>
   <li>🛠️ I build secure systems using my knowledge of vulnerabilities and programming.</li>
   <li>🌐 Knowledge in AI, ML, Cloud Security, Data Structures, Blockchain, Data Integrity, Cryptography, and more.</li>
-  <li>📚 Motto: <em>"Code securely, think critically, and never stop learning."</em></li>
+  <li>📚 Motto: <b><em>"Code securely, think critically, and never stop learning."</em></b></li>
 </ul>
 
 <h2>⚡ Where to find me</h2>
