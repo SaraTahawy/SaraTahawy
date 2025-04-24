@@ -52,6 +52,12 @@
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
   <a target="_blank" href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
   <a target="_blank" href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/p/powerpoint-2.svg" alt="PowerPoint" width="42" height="42" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/w/word-1.svg" alt="Word" width="42" height="42" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg" alt="Excel" width="42" height="42" /></a>
   <a target="_blank" href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
   <a target="_blank" href="https://www.r-project.org/">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42" /></a>
