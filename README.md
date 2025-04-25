@@ -72,6 +72,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OWASP_ZAP_logo.svg" alt="OWASP ZAP" width="42" height="42" /></a>
   <a target="_blank" href="https://www.wireshark.org/">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="Wireshark" width="42" height="42" /></a>
+ <a target="_blank" href="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="42" height="42" /></a>
   <a href="https://jupyter.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="42" height="42" /></a>
   <a target="_blank" href="https://www.netacad.com/courses/packet-tracer">
