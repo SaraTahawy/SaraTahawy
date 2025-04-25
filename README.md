@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<p align="center">Cyber Security Student | Learning & Growing | Looking for Opportunities</p>
+<p align="center"><b>Cyber Security Student | Learning & Growing | Looking for Opportunities</b></p>
 
 <h2>💻 About Me</h2>
 <ul>
