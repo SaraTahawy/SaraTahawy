@@ -63,11 +63,11 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg" alt="Excel" width="42" height="42" /></a>
   <a target="_blank" href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+  <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a target="_blank" href="https://www.r-project.org/">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42" /></a>
   <a target="_blank" href="https://posit.co/download/rstudio-desktop/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="42" height="42" /></a>
-      <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
    <a target="_blank" href="https://www.zaproxy.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OWASP_ZAP_logo.svg" alt="OWASP ZAP" width="42" height="42" /></a>
   <a target="_blank" href="https://www.wireshark.org/">
