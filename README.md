@@ -49,9 +49,13 @@
   <a target="_blank" href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
   <a target="_blank" href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="42" height="42" /></a>
   <a target="_blank" href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="42" height="42" /></a>
   <a target="_blank" href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
   <a target="_blank" href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
+   <a target="_blank" href="https://www.vectorlogo.zone/logos/minitab/minitab-icon.svg">
+      <img src="https://github.com/detain/svg-logos/blob/master/svg/m/minitab.svg" alt="Minitab Blue" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/minitab/minitab-green-icon.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" alt="Minitab Green" width="42" height="42" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
   <img src="https://github.com/detain/svg-logos/blob/master/svg/p/powerpoint-2.svg" alt="PowerPoint" width="42" height="42" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
