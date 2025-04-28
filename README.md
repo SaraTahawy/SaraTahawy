@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <p align="center"><b>Cyber Security Student | Learning & Growing | Looking for Opportunities</b></p>
-
+<h2 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3N2NwYThxenloOW12eHQ5bHRsZGtsaXBlbnNybmd6cXIzNXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500">
+</h2>
 <h2>💻 About Me</h2>
 <ul>
   <li>🎓 Cyber Security student passionate about ethical hacking and digital protection.</li>
