@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sara </h1>
 <p align="center"><b>Cyber Security Student | Learning & Growing | Looking for Opportunities</b></p>
 <h2 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3N2NwYThxenloOW12eHQ5bHRsZGtsaXBlbnNybmd6cXIzNXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500">
