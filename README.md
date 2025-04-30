@@ -15,8 +15,8 @@
 <h2>⚡ Where to find me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/saranabil/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sara.nabil77777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
