@@ -5,7 +5,7 @@
 </h2>
 <h2>💻 About Me</h2>
 <ul>
-  <li>🎓 Cyber Security student passionate about ethical hacking and digital protection.</li>
+  <li>🎓 Cyber Security student passionate about Security Operations and Cloud.</li>
   <li>🔐 Experienced in penetration testing, network security, and secure coding.</li>
   <li>🛠️ I build secure systems using my knowledge of vulnerabilities and programming.</li>
   <li>🌐 Knowledge in AI, ML, Cloud Security, Data Structures, Blockchain, Data Integrity, Cryptography, and more.</li>
