@@ -88,18 +88,21 @@
 </p>
 <h2>📊 GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaraTahawy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SaraTahawy)
-
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SaraTahawy" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SaraTahawy)
+
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
