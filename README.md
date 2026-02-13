@@ -88,7 +88,7 @@
 </p>
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraTahawy" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=SaraTahawy&theme=default" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
