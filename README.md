@@ -101,6 +101,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SaraTahawy)
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&cache_seconds=86400" />
 
 
 <p align="center">
