@@ -93,18 +93,6 @@
 </p>
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SaraTahawy)
-
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&cache_seconds=86400" />
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
