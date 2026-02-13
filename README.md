@@ -87,6 +87,16 @@
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="42" height="42" /></a>
 </p>
 <h2>📊 GitHub Stats</h2>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SaraTahawy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SaraTahawy)
+
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SaraTahawy" alt="GitHub Streak" />
 </p>
