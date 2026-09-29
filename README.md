@@ -93,22 +93,28 @@
 </p>
 
 <p align="center">
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact&locale=en&card_width=350"
-    alt="Top Languages"
-  />
+  <a href="https://github-stats-extended.vercel.app/api?username=SaraTahawy">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&card_width=320">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&locale=en&card_width=320"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophies" />
+  <img
+    src="./.github/assets/trophy.svg"
+    alt="GitHub Trophies"
+  />
 </p>
-
      
 
 
