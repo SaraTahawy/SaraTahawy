@@ -108,10 +108,9 @@
     />
   </a>
 </p>
-
 <p align="center">
   <img
-    src="./.github/assets/trophy.svg"
+    src="./trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
