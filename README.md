@@ -115,6 +115,5 @@
     alt="GitHub Trophies"
   />
 </p>
-     
 
 
