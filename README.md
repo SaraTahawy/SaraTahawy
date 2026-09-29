@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31"> , I'm Sara </h1>
-<p align="center"><b>Cyber Security Student | Learning & Growing | Looking for Opportunities</b></p>
+<p align="center"><b>Cyber Security Graduate | Learning & Growing | Looking for Opportunities</b></p>
 <h2 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3N2NwYThxenloOW12eHQ5bHRsZGtsaXBlbnNybmd6cXIzNXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500">
 </h2>
 <h2>💻 About Me</h2>
 <ul>
-  <li>🎓 Cyber Security student passionate about Security Operations and Cloud.</li>
+  <li>🎓 Cyber Security Graduate passionate about Security Operations and Cloud.</li>
   <li>🔐 Experienced in penetration testing, network security, and secure coding.</li>
   <li>🛠️ I build secure systems using my knowledge of vulnerabilities and programming.</li>
   <li>🌐 Knowledge in AI, ML, Cloud Security, Data Structures, Blockchain, Data Integrity, Cryptography, and more.</li>
