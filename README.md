@@ -103,7 +103,7 @@
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&locale=en&card_width=300"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&locale=en&card_width=340"
       alt="Top Languages"
     />
   </a>
