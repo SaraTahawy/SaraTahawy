@@ -107,7 +107,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=SaraTahawy&theme=flat&no-frame=true&margin-w=10"
+    src="https://gh-trophy.cdnsoft.net/?username=SaraTahawy&theme=flat&no-frame=true&margin-w=10"
     alt="GitHub Trophies"
   />
 </p>
