@@ -106,10 +106,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://gh-trophy.cdnsoft.net/?username=SaraTahawy&theme=flat&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
+  <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
      
