@@ -96,6 +96,7 @@
   <a href="https://github-stats-extended.vercel.app/api?username=SaraTahawy">
     <img
       height="180"
+      align="center"
       src="https://github-stats-extended.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en&card_width=450"
       alt="GitHub Stats"
     />
@@ -103,7 +104,8 @@
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&locale=en&card_width=340"
+      align="center"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=SaraTahawy&layout=compact&locale=en&card_width=300"
       alt="Top Languages"
     />
   </a>
