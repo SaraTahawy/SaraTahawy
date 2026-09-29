@@ -94,12 +94,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraTahawy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact&locale=en" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=SaraTahawy" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaraTahawy" alt="GitHub Trophies" />
 </p>
 
      
