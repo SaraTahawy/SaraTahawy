@@ -93,8 +93,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact&locale=en" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SaraTahawy&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaraTahawy&layout=compact&locale=en" alt="Top Languages" />
 </p>
 
 <p align="center">
